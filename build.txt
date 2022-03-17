@@ -1,0 +1,4 @@
+
+oscript.exe -make archie.os bin\archie.exe
+
+.\bin\archie.exe [Путь к папке с БД 1с] [Путь к папке с архивами]
