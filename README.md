@@ -1,4 +1,4 @@
-# Archie-1C-archiver
+# Archie archiver 1C
 
 Утилита на OneScript для создания бекапов баз данных 1С.
 
